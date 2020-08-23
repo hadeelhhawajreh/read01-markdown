@@ -15,4 +15,3 @@ Understanding how to create a complete website.
 * ## 102 code: 1 week
  Use Git and GitHub
  HTML, CSS and JavaScript in an interactive web page
-
